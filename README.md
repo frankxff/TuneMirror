@@ -32,4 +32,4 @@
 
 ## 感谢
 
-感谢 linux.do 社区的讨论、反馈和支持：[前往 linux.do](https://linux.do)。
+感谢 [Linux.do 社区](https://linux.do)讨论、反馈和支持。
